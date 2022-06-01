@@ -1,3 +1,3 @@
 # Amazon Targetted Coupon Service
 
-Exploratory data analysis
+Link to the GitHub page  - https://nikhilkr31.github.io/Amazon-Targeted-Coupon-Service/
